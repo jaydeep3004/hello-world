@@ -1,3 +1,4 @@
 # hello-world
 this is a test repository
-This is jaydeepsinh gohil. I am QA engg.
+This is jaydeepsinh gohil. 
+You are very good to understand GitHub... :)
